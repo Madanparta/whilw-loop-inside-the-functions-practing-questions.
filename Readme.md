@@ -20,4 +20,16 @@
 
 ---
 
-`6.`
+`6.`Take an integer and print 'YES' if the input integer is an armstrong number, otherwise print 'NO'.
+
+---
+
+`7.`Take an integer as input and print 'YES' if the number is a special number. Otherwise, print 'NO'.
+
+---
+
+`8.`For number from 1 to 100 if number is divisible by 3 print 'Hello' if divisible by 5 print 'World', if divisible by 15 print 'HelloWorld' else print the number itself.
+
+---
+
+`9.`
